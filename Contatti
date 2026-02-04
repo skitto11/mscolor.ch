@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Contatti | MS Color SAGL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Contattaci</h1>
+
+<p>Richiedi un preventivo gratuito</p>
+
+<p>
+📍 Svizzera italiana<br>
+📧 info@mscolor.ch
+</p>
+
+<a href="index.html">← Torna alla Home</a>
+
+</body>
+</html>
