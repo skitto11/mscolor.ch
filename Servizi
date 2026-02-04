@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Servizi | MS Color SAGL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>I nostri servizi</h1>
+
+<ul>
+  <li>Pittura interni ed esterni</li>
+  <li>Decorazioni moderne e classiche</li>
+  <li>Cartongesso</li>
+  <li>Finiture professionali</li>
+</ul>
+
+<a href="index.html">← Torna alla Home</a>
+
+</body>
+</html>
