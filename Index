@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>MS Color SAGL | Pitture e Decorazioni</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>MS Color SAGL</h1>
+  <p>Pitture e decorazioni professionali</p>
+  <a class="btn" href="contatti.html">Richiedi un preventivo</a>
+</header>
+
+<section>
+  <h2>Chi siamo</h2>
+  <p>
+    MS Color SAGL offre servizi di pittura per interni ed esterni,
+    decorazioni e finiture di qualità per privati e aziende
+    in tutta la Svizzera italiana.
+  </p>
+</section>
+
+<section>
+  <h2>I nostri servizi</h2>
+  <ul>
+    <li>Pittura interni</li>
+    <li>Pittura esterni</li>
+    <li>Decorazioni</li>
+    <li>Cartongesso e finiture</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© MS Color SAGL – Svizzera</p>
+</footer>
+
+</body>
+</html>
