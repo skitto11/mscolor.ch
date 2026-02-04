@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Chi siamo | MS Color SAGL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Chi siamo</h1>
+
+<p>
+  MS Color SAGL nasce con l’obiettivo di offrire lavori di pittura
+  curati, affidabili e duraturi.
+  Ogni progetto viene seguito con attenzione ai dettagli
+  e alle esigenze del cliente.
+</p>
+
+<a href="index.html">← Torna alla Home</a>
+
+</body>
+</html>
