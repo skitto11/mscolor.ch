@@ -29,3 +29,17 @@ footer {
   background: #f1f1f1;
   padding: 15px;
 }
+:root {
+  --primary: #E11D2E;
+  --primary-dark: #BE123C;
+  --background: #FFFFFF;
+  --section: #F5F5F5;
+  --text: #111111;
+}
+
+body {
+  background: var(--background);
+  color: var(--text);
+  margin: 0;
+  font-family: sans-serif;
+}
