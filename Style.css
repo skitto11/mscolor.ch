@@ -43,3 +43,82 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+body{
+font-family: Arial, sans-serif;
+margin:0;
+color:#111;
+}
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 40px;
+background:white;
+border-bottom:1px solid #eee;
+}
+
+.menu{
+list-style:none;
+display:flex;
+gap:30px;
+}
+
+.menu a{
+text-decoration:none;
+color:#111;
+font-weight:500;
+}
+
+.hero{
+text-align:center;
+padding:120px 20px;
+background:#f5f5f5;
+}
+
+.hero h2{
+font-size:40px;
+margin-bottom:20px;
+}
+
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 25px;
+background:#E11D2E;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.section{
+padding:80px 20px;
+text-align:center;
+}
+
+.light{
+background:#f5f5f5;
+}
+
+.cards{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-top:40px;
+flex-wrap:wrap;
+}
+
+.card{
+background:white;
+padding:30px;
+width:250px;
+box-shadow:0 5px 15px rgba(0,0,0,0.1);
+border-radius:8px;
+}
+
+footer{
+text-align:center;
+padding:30px;
+background:#111;
+color:white;
+}
